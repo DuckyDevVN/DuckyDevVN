@@ -1,6 +1,6 @@
 <img src="https://count.getloli.com/get/@:DuckyDevVN?theme=rule34" align="right">
 <h1 align="center">Hi👋, I'm DuckyDevVN</h1>
-<h3 align="center">💻 As a developer 💻</h3>
+<h3 align="center">💻 As a developer from VietNam 💻</h3>
 
 <hr>
 <p align="center">
