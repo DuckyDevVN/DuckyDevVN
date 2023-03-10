@@ -43,6 +43,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DuckyDevVN&dates=631702&background=bd6c36&currStreakNum=631702&sideNums=ffffff&sideLabels=ffffff&stroke=631702&fire=631702&ring=631702&currStreakLabel=631702&border=631702)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitDevVN&bg_color=bd6c36&title_color=631702&text_color=ffffff&border_color=631702)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyDevVN&bg_color=bd6c36&title_color=631702&text_color=ffffff&border_color=631702)
 
 <img src="https://user-images.githubusercontent.com/111399722/224296252-3c655e41-f2de-406a-bf53-0f323aca9115.gif" align="center">
