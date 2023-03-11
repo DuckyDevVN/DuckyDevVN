@@ -37,14 +37,15 @@
 </hr>
 
 
-<img src="https://user-images.githubusercontent.com/111399722/224279137-435ca99d-2db3-4861-88c7-b6e0b5e0c1df.png" align="right" width="300" height="640">
+
+<img src="https://lanyard.cnrad.dev/api/823082865553833984?theme=light&bg=bd6c36" align="right">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyDevVN&bg_color=bd6c36&title_color=631702&text_color=ffffff&border_color=631702)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=DuckyDevVN&show_icons=true&bg_color=bd6c36&title_color=631702&text_color=ffffff&icon_color=9a2800&border_color=631702)
+<img src="https://user-images.githubusercontent.com/111399722/224279137-435ca99d-2db3-4861-88c7-b6e0b5e0c1df.png" align="right" width="300" height="640">
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=DuckyDevVN&show_icons=true&bg_color=bd6c36&title_color=631702&text_color=ffffff&icon_color=9a2800&border_color=631702)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DuckyDevVN&dates=631702&background=bd6c36&currStreakNum=631702&sideNums=ffffff&sideLabels=ffffff&stroke=631702&fire=631702&ring=631702&currStreakLabel=631702&border=631702)
 
-
-<img src="https://user-images.githubusercontent.com/111399722/224296252-3c655e41-f2de-406a-bf53-0f323aca9115.gif" align="center">
+<img src="https://user-images.githubusercontent.com/111399722/224296252-3c655e41-f2de-406a-bf53-0f323aca9115.gif">
