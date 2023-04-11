@@ -36,10 +36,9 @@
 </p>
 </hr>
 
+<img src="https://user-images.githubusercontent.com/111399722/224279137-435ca99d-2db3-4861-88c7-b6e0b5e0c1df.png" align="right" width="300" height="640">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyDevVN&bg_color=bd6c36&title_color=631702&text_color=ffffff&border_color=631702)
-
-<img src="https://user-images.githubusercontent.com/111399722/224279137-435ca99d-2db3-4861-88c7-b6e0b5e0c1df.png" align="right" width="300" height="640">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DuckyDevVN&show_icons=true&bg_color=bd6c36&title_color=631702&text_color=ffffff&icon_color=9a2800&border_color=631702)
 
