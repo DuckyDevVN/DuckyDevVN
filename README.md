@@ -37,9 +37,6 @@
 </hr>
 
 
-
-<img src="https://lanyard.cnrad.dev/api/823082865553833984?theme=light&bg=bd6c36" align="right">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyDevVN&bg_color=bd6c36&title_color=631702&text_color=ffffff&border_color=631702)
 
 <img src="https://user-images.githubusercontent.com/111399722/224279137-435ca99d-2db3-4861-88c7-b6e0b5e0c1df.png" align="right" width="300" height="640">
